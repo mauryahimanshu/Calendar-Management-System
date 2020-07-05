@@ -50,6 +50,21 @@ $ ./calendar.exe
 ```
 ---
 
+## Images
+
+- **Home Page**
+<img src="/ScreenShots/1_Screenshot_HOME.png" alt="Home Page">
+
+- **Jump to Date**
+<img src="/ScreenShots/2_Screenshot_Jump_to_date.png" alt="Jump to Date">
+
+- **About**
+<img src="/ScreenShots/4_Screenshot_About.png" alt="About Section">
+
+- #### You can checkout the ScreenShots directory to view a few more images.
+
+---
+
 ## Contributing
 
 
